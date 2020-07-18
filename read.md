@@ -7,4 +7,8 @@
 #This line is danger
 #sub branch
 #sub branch
+<<<<<<< Updated upstream
+#checking stash
+=======
 #checking for stash
+>>>>>>> Stashed changes
