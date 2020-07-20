@@ -2,3 +2,4 @@
 #second_commit
 #third_commit
 #fourth_commit
+#checking_rebase_command
